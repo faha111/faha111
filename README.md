@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Faha Fathima 👋
 
-<!--
-**faha111/faha111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year BSc (Hons) Industrial Information Technology student at Uva Wellassa University of Sri Lanka, looking for a **remote software engineering internship**.
 
-Here are some ideas to get you started:
+## What I build
+- **WashEase: Smart Laundry Online Platform**: a full-stack laundry marketplace with customer, vendor and admin roles, order tracking, invoicing, OTP email verification, and a rewards and commission system (React, PHP, MySQL)
+- **Internship Tracker**: Node.js/Express REST API with JWT auth, SQLite and CI tests, plus a React frontend
+- **Gym Management System**: PHP/MySQL web app for members, trainers, plans and payments
+- **AI Study Summarizer**: browser-based tool that turns lecture notes into bullet-point summaries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+JavaScript · React · Node.js · Express · PHP · MySQL · SQLite · Git · GitHub Actions
+
+## Contact
+📧 ammfouzer669@gmail.com
